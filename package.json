@@ -1,0 +1,12 @@
+{
+  "name": "what_is_data_scraping",
+  "version": "1.0.0",
+  "description": "This is a tiny site which will be used as an example of data scraping target",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgi Naumov",
+  "license": "ISC",
+  "private": true
+}
