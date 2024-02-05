@@ -8,5 +8,8 @@
   },
   "author": "Georgi Naumov",
   "license": "ISC",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
 }
