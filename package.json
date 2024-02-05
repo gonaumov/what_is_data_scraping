@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "This is a tiny site which will be used as an example of data scraping target",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "node node-scrapper.js"
   },
   "author": "Georgi Naumov",
   "license": "ISC",

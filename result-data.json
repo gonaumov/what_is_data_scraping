@@ -1,0 +1,26 @@
+[
+ {
+  "name": "Iphone 11 pro",
+  "description": "256GB, Navy Blue",
+  "qty": "2",
+  "price": "$900"
+ },
+ {
+  "name": "Samsung galaxy Note 10 ",
+  "description": "256GB, Navy Blue",
+  "qty": "2",
+  "price": "$900"
+ },
+ {
+  "name": "Canon EOS M50",
+  "description": "Onyx Black",
+  "qty": "1",
+  "price": "$1199"
+ },
+ {
+  "name": "MacBook Pro",
+  "description": "1TB, Graphite",
+  "qty": "1",
+  "price": "$1799"
+ }
+]
